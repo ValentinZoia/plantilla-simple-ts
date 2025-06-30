@@ -16,3 +16,19 @@ Este repositorio es una plantilla mínima en TypeScript para realizar pruebas r�
 ```bash
 git clone https://github.com/ValentinZoia/plantilla-simple-ts.git
 cd plantilla-ts
+```
+
+
+### 2. Instalar dependencias
+```bash
+npm install
+```
+
+### 3. Ejecutar archivo principal
+```bash
+npx tsx src/app.ts
+```
+
+### 💡Sugerencias de uso
+- Usá este proyecto como entorno para probar funciones, algoritmos o conceptos de TypeScript sin tener que configurar un proyecto grande.
+- Si querés ejecutar múltiples archivos, simplemente agregalos dentro del directorio src/ y ejecutalos con npx tsx.
