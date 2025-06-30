@@ -1,1 +1,1 @@
-# plantilla-simple-ts
+# Node + TypeScript
