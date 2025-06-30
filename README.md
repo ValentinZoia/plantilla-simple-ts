@@ -10,6 +10,12 @@ Este repositorio es una plantilla mínima en TypeScript para realizar pruebas r�
 
 ---
 
+## 🔧 Requisitos:
+1. Asegurate de que el directorio donde ejecutás esto ya existe y esté vacío.
+2. Ejecutá el comando desde esa carpeta ya creada.
+
+---
+
 ## 🚀 Cómo usar esta plantilla
 
 ### 1. Clonar el repositorio
@@ -17,6 +23,7 @@ Este repositorio es una plantilla mínima en TypeScript para realizar pruebas r�
 git clone https://github.com/ValentinZoia/plantilla-simple-ts.git .
 
 ```
+> 🟡 ¡Importante! El punto final (.) significa "clonar el contenido del repositorio en el directorio actual".
 
 
 ### 2. Instalar dependencias
