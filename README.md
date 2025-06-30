@@ -14,5 +14,5 @@ Este repositorio es una plantilla m√≠nima en TypeScript para realizar pruebas r√
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/typescript-basic-starter.git
-cd typescript-basic-starter
+git clone https://github.com/ValentinZoia/plantilla-simple-ts.git
+cd plantilla-ts
