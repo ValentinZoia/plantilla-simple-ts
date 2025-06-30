@@ -1,4 +1,4 @@
-# Node + TypeScript Basic Starter
+# Node + TypeScript - Basic Starter
 
 
 Este repositorio es una plantilla mínima en TypeScript para realizar pruebas rápidas, escribir scripts pequeños o experimentar con el lenguaje.
