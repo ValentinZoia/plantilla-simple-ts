@@ -25,13 +25,19 @@ git clone https://github.com/ValentinZoia/plantilla-simple-ts.git .
 ```
 > 🟡 ¡Importante! El punto final (.) significa "clonar el contenido del repositorio en el directorio actual".
 
+### 2. Eliminar historial Git Muy Importante
+```bash
+rm -rf .git && git init
 
-### 2. Instalar dependencias
+```
+> 🟡  Importante: Si estás usando esta plantilla como base para un nuevo proyecto, eliminá el historial de Git con ese comando.
+
+### 3. Instalar dependencias
 ```bash
 npm install
 ```
 
-### 3. Ejecutar archivo principal
+### 4. Ejecutar archivo principal
 ```bash
 npx tsx src/app.ts
 ```
